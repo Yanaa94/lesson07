@@ -1,0 +1,15 @@
+a {
+    text-decoration: none;
+    color: #FCD8CA;
+}
+
+p {
+    text-decoration: none;
+    color: rgba(0, 53, 59, 1);
+    font-size: 18px;
+    font-family: Poppins;
+}
+
+p {
+    text-indent: 50px;
+}
